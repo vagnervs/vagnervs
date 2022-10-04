@@ -3,9 +3,9 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Bacharel em **Engenharia de Computação** pela <a href=https://portal.ufpa.br/> Universidade Federal do Pará </a>.
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 💻 &nbsp; Pós-graduado em **Administração de Banco de Dados** pela <a href=https://www.anhanguera.com/> Universidade Anhanguera Uniderp </a>..
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 

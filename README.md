@@ -4,8 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Bacharel **Engenharia de Computação - UFPA** no <a href=https://portal.ufpa.br/>SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🎓 &nbsp; Bacharel em **Engenharia de Computação** pela <a href=https://portal.ufpa.br/> Universidade Federal do Pará </a>.
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>

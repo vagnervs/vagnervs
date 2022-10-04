@@ -1,5 +1,5 @@
 
-##  Olá, meu nome é <strong>{Vagner}!</strong>
+##  Olá, meu nome é <strong>Vagner!</strong>
 
 <h3> 🧔: &nbsp;Sobre mim </h3>
 

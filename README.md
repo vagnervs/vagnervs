@@ -1,7 +1,7 @@
 
 ##  Olá, meu nome é <strong>Vagner!</strong>
 
-<h3> 👦🏽: &nbsp;Sobre mim </h3>
+<h3>: &nbsp;Sobre mim </h3>
 
 - 🔎 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Bacharel em **Engenharia de Computação** pela <a href=https://portal.ufpa.br/> Universidade Federal do Pará </a>.

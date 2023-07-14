@@ -5,6 +5,7 @@
 
 - 🎓 &nbsp; Bacharel em **Engenharia de Computação** pela <a href=https://portal.ufpa.br/> Universidade Federal do Pará </a>.
 - 💻 &nbsp; Pós-graduado em **Administração de Banco de Dados** pela <a href=https://www.anhanguera.com/> Universidade Anhanguera Uniderp </a>.
+- 💻 &nbsp; Pós-graduado em **Segurança da Informação** pela <a href=https://www.unopar.com.br/> Universidade Norte do Paraná </a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
